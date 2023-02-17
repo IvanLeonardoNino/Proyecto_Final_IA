@@ -1,0 +1,6 @@
+Estimadores: 
+- Decision Tree
+- Random Forest
+- Support Vector Machines
+- Gaussian Naive Bayes
+- Redes Neuronales

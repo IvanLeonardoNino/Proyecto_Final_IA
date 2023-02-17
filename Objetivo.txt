@@ -1,0 +1,4 @@
+Objetivo:
+Para este proyecto tenemos como objetivo implementar un modelo de inteligencia artificial 
+capaz de reconocer expresiones faciales, para ello implementamos los conceptos,métodos 
+y planteamientos vistos en clase para obtener un resultado satisfactorio.
